@@ -1,5 +1,5 @@
 /**
- * Stack class which stores strings that can be accessed only in FIFO order
+ * Stack class which stores strings that can be accessed only in LIFO order
  *
  * @author Alex Thorrold
  */
